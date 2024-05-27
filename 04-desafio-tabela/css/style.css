@@ -1,0 +1,20 @@
+table {
+    color: white;
+}
+thead {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.th-one {
+    background-color: #BB86FC;
+}
+.th-two {
+    background-color: #00C4B4;
+}
+td{
+    padding: 8px;
+}
+tbody {
+    background-color: #424250;
+}
